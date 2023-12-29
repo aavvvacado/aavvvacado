@@ -1,4 +1,7 @@
-# Hi there, I'm Vishal 👋
+
+# Hi there, I'm Aavacado 👋
+![Profile Views](https://komarev.com/ghpvc/?username=aavvvacado&color=blue)
+
 
 ## About Me
 
@@ -19,15 +22,13 @@
 - **SQL**
 - **C Language**
 
-## Current Projects
-
-- 🤖 Working on exciting machine learning projects to enhance my skills.
-- 🚀 Contributing to open-source projects that align with my interests.
 
 ## Goals
 
 - 👨‍💻 Aspiring to work in the field of machine learning and contribute to cutting-edge technologies.
-- 📚 Constantly learning and staying updated with the latest developments in AI and data science.
+- 📚 Constantly learning and staying updated with the latest developments in AI and data science.-
+ 
+![Coding Stats](https://github-readme-stats.vercel.app/api?username=aavvvacado&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## Get in Touch
 
