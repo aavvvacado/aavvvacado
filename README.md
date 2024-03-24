@@ -3,6 +3,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=aavvvacado&color=blue)
 
 
+![sea-train-line-moewalls-com-ezgif com-video-to-gif-converter](https://github.com/aavvvacado/aavvvacado/assets/155164170/7be25ebd-ba9f-4bd5-93f1-5c9ecff022df)
+
+
 ## About Me
 
 - 🌱 I'm passionate about machine learning, Python, SQL, and C language.
