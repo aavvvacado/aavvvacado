@@ -8,8 +8,8 @@
 
 ## About Me
 
-- 🌱 I'm passionate about machine learning, Python, SQL, and C language.
-- 🔭 Currently exploring the fascinating world of artificial intelligence and data science.
+- 🌱 I'm just a flutter dev with python skills.
+- 🔭 Currently exploring the  world of creation.
 - 💡 I enjoy turning complex problems into simple, efficient, and scalable solutions.
 
 ## Connect with Me
