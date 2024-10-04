@@ -18,12 +18,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/aavvvacado)
 
 
-## Skills
-
-- **Machine Learning**
-- **Python**
-- **SQL**
-- **C Language**
+## Badges
+https://holopin.me/aavvvacado)](https://holopin.io/@aavvvacado
 
 
 ## Goals
