@@ -19,8 +19,7 @@
 
 
 ## Badges
-https://holopin.me/aavvvacado)](https://holopin.io/@aavvvacado
-
+[![An image of @aavvvacado's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aavvvacado)](https://holopin.io/@aavvvacado)
 
 ## Goals
 
