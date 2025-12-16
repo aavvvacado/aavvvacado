@@ -8,7 +8,7 @@
 - Passionate about Flutter, Python and exploring coding languages.
 - Skilled in various languages/tools: Flutter,Dart, Python, C/C++ (basics), Html ,CSS, and JAVA (foundations).
 - Enjoy automating tasks and casual gaming.
-- Let's connect! Find me on Telegram @Mujhse_mt_puchona.
+- Let's connect! Find me on (https://aavvvcadoportfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
